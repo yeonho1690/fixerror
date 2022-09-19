@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\study\backend_study\deployment\PlantShop_Deployment-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1360729053.index
+3980207236.index
+181053578.index
+573175126.index
